@@ -1,6 +1,6 @@
 # How to maintain test cases
 
-1. Please make sure that GNU sed, [pict](https://github.com/microsoft/pict) and [shunit2](https://github.com/kward/shunit2.git) and are installed.
+1. to test, please make sure that GNU sed, [pict](https://github.com/microsoft/pict) and [shunit2](https://github.com/kward/shunit2.git) are installed.
 
 Example for pict: 
 ```bash
